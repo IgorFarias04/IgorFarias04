@@ -1,5 +1,3 @@
-vseuuser / README.md
-
 👨‍💻 Backend Developer focused on building scalable and secure systems. 2+ years of experience.
 
 🏦 Experience developing enterprise applications and APIs.
